@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/photoviewer/static/css/main.459ff65c.chunk.css",
+    "main.js": "/photoviewer/static/js/main.3b86edbc.chunk.js",
+    "main.js.map": "/photoviewer/static/js/main.3b86edbc.chunk.js.map",
+    "runtime-main.js": "/photoviewer/static/js/runtime-main.72f48ec5.js",
+    "runtime-main.js.map": "/photoviewer/static/js/runtime-main.72f48ec5.js.map",
+    "static/js/2.e44040ad.chunk.js": "/photoviewer/static/js/2.e44040ad.chunk.js",
+    "static/js/2.e44040ad.chunk.js.map": "/photoviewer/static/js/2.e44040ad.chunk.js.map",
+    "index.html": "/photoviewer/index.html",
+    "precache-manifest.0f54143166dae7dfdc7d4f803f1a9153.js": "/photoviewer/precache-manifest.0f54143166dae7dfdc7d4f803f1a9153.js",
+    "service-worker.js": "/photoviewer/service-worker.js",
+    "static/css/main.459ff65c.chunk.css.map": "/photoviewer/static/css/main.459ff65c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72f48ec5.js",
+    "static/js/2.e44040ad.chunk.js",
+    "static/css/main.459ff65c.chunk.css",
+    "static/js/main.3b86edbc.chunk.js"
+  ]
+}
